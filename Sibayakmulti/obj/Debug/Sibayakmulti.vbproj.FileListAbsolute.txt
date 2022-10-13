@@ -1,0 +1,43 @@
+D:\budiman_sempro\BAB\skripsi gabungan budi\sidang\2016020863_Budiman Nasra Laia SI\DESCogindo1\Sibayakmulti\bin\Debug\DESCogindo1.exe.config
+D:\budiman_sempro\BAB\skripsi gabungan budi\sidang\2016020863_Budiman Nasra Laia SI\DESCogindo1\Sibayakmulti\obj\Debug\Sibayakmulti.vbproj.ResolveComReference.cache
+D:\budiman_sempro\BAB\skripsi gabungan budi\sidang\2016020863_Budiman Nasra Laia SI\DESCogindo1\Sibayakmulti\obj\Debug\DESCogindo1.exe
+D:\budiman_sempro\BAB\skripsi gabungan budi\sidang\2016020863_Budiman Nasra Laia SI\DESCogindo1\Sibayakmulti\obj\Debug\DESCogindo1.xml
+D:\budiman_sempro\BAB\skripsi gabungan budi\sidang\2016020863_Budiman Nasra Laia SI\DESCogindo1\Sibayakmulti\obj\Debug\DESCogindo1.pdb
+D:\budiman_sempro\Joki\Kristina DES\SibayakMulti\Sibayakmulti\obj\Debug\Sibayakmulti.vbproj.ResolveComReference.cache
+D:\budiman_sempro\Joki\Kristina DES\SibayakMulti\Sibayakmulti\obj\Debug\Sibayakmulti.vbprojResolveAssemblyReference.cache
+D:\budiman_sempro\Joki\Kristina DES\SibayakMulti\Sibayakmulti\obj\Debug\Sibayakmulti.vbproj.GenerateResource.Cache
+D:\budiman_sempro\Joki\Kristina DES\SibayakMulti\Sibayakmulti\bin\Debug\Sibayakmulti.exe.config
+D:\budiman_sempro\Joki\Kristina DES\SibayakMulti\Sibayakmulti\bin\Debug\Sibayakmulti.exe
+D:\budiman_sempro\Joki\Kristina DES\SibayakMulti\Sibayakmulti\bin\Debug\Sibayakmulti.pdb
+D:\budiman_sempro\Joki\Kristina DES\SibayakMulti\Sibayakmulti\bin\Debug\Sibayakmulti.xml
+D:\budiman_sempro\Joki\Kristina DES\SibayakMulti\Sibayakmulti\obj\Debug\Sibayakmulti.Form_dekripsi.resources
+D:\budiman_sempro\Joki\Kristina DES\SibayakMulti\Sibayakmulti\obj\Debug\Sibayakmulti.Form_Enkripsi.resources
+D:\budiman_sempro\Joki\Kristina DES\SibayakMulti\Sibayakmulti\obj\Debug\Sibayakmulti.Form_input.resources
+D:\budiman_sempro\Joki\Kristina DES\SibayakMulti\Sibayakmulti\obj\Debug\Sibayakmulti.Form_Laporan.resources
+D:\budiman_sempro\Joki\Kristina DES\SibayakMulti\Sibayakmulti\obj\Debug\Sibayakmulti.Form_Login.resources
+D:\budiman_sempro\Joki\Kristina DES\SibayakMulti\Sibayakmulti\obj\Debug\Sibayakmulti.Form_Menu.resources
+D:\budiman_sempro\Joki\Kristina DES\SibayakMulti\Sibayakmulti\obj\Debug\Sibayakmulti.Resources.resources
+D:\budiman_sempro\Joki\Kristina DES\SibayakMulti\Sibayakmulti\obj\Debug\Sibayakmulti.exe
+D:\budiman_sempro\Joki\Kristina DES\SibayakMulti\Sibayakmulti\obj\Debug\Sibayakmulti.xml
+D:\budiman_sempro\Joki\Kristina DES\SibayakMulti\Sibayakmulti\obj\Debug\Sibayakmulti.pdb
+D:\budiman_sempro\Joki\Kristina DES\SibayakMulti - Copy\Sibayakmulti\bin\Debug\Sibayakmulti.exe.config
+D:\budiman_sempro\Joki\Kristina DES\SibayakMulti - Copy\Sibayakmulti\obj\Debug\Sibayakmulti.vbproj.ResolveComReference.cache
+D:\budiman_sempro\Joki\Kristina DES\SibayakMulti - Copy\Sibayakmulti\obj\Debug\Sibayakmulti.exe
+D:\budiman_sempro\Joki\Kristina DES\SibayakMulti - Copy\Sibayakmulti\obj\Debug\Sibayakmulti.xml
+D:\budiman_sempro\Joki\Kristina DES\SibayakMulti - Copy\Sibayakmulti\obj\Debug\Sibayakmulti.pdb
+D:\budiman_sempro\Joki\Kristina DES\SibayakMulti - Copy\Sibayakmulti\bin\Debug\Sibayakmulti.exe
+D:\budiman_sempro\Joki\Kristina DES\SibayakMulti - Copy\Sibayakmulti\bin\Debug\Sibayakmulti.pdb
+D:\budiman_sempro\Joki\Kristina DES\SibayakMulti - Copy\Sibayakmulti\bin\Debug\Sibayakmulti.xml
+D:\budiman_sempro\Joki\Kristina DES\SibayakMulti - Copy\Sibayakmulti\obj\Debug\Sibayakmulti.vbprojResolveAssemblyReference.cache
+D:\budiman_sempro\Joki\Kristina DES\SibayakMulti - Copy\Sibayakmulti\obj\Debug\Sibayakmulti.Form_dekripsi.resources
+D:\budiman_sempro\Joki\Kristina DES\SibayakMulti - Copy\Sibayakmulti\obj\Debug\Sibayakmulti.Form_Enkripsi.resources
+D:\budiman_sempro\Joki\Kristina DES\SibayakMulti - Copy\Sibayakmulti\obj\Debug\Sibayakmulti.Form_input.resources
+D:\budiman_sempro\Joki\Kristina DES\SibayakMulti - Copy\Sibayakmulti\obj\Debug\Sibayakmulti.Form_Laporan.resources
+D:\budiman_sempro\Joki\Kristina DES\SibayakMulti - Copy\Sibayakmulti\obj\Debug\Sibayakmulti.Form_Login.resources
+D:\budiman_sempro\Joki\Kristina DES\SibayakMulti - Copy\Sibayakmulti\obj\Debug\Sibayakmulti.Form_Menu.resources
+D:\budiman_sempro\Joki\Kristina DES\SibayakMulti - Copy\Sibayakmulti\obj\Debug\Sibayakmulti.Resources.resources
+D:\budiman_sempro\Joki\Kristina DES\SibayakMulti - Copy\Sibayakmulti\obj\Debug\Sibayakmulti.vbproj.GenerateResource.Cache
+D:\budiman_sempro\Joki\Kristina DES\SibayakMulti - Copy\Sibayakmulti\obj\Debug\Sibayakmulti.Form_datatamu.resources
+D:\budiman_sempro\Joki\Kristina DES\SibayakMulti - Copy\Sibayakmulti\obj\Debug\Sibayakmulti.Form_biodata.resources
+D:\budiman_sempro\Joki\Kristina DES\SibayakMulti\Sibayakmulti\obj\Debug\Sibayakmulti.Form_datatamu.resources
+D:\budiman_sempro\Joki\Kristina DES\SibayakMulti\Sibayakmulti\obj\Debug\Sibayakmulti.Form_biodata.resources

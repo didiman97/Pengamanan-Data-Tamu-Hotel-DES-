@@ -1,0 +1,35 @@
+c:\users\budiman nasra laia\documents\visual studio 2012\Projects\DESCogindo1\DESCogindo1\bin\Debug\DESCogindo1.exe.config
+c:\users\budiman nasra laia\documents\visual studio 2012\Projects\DESCogindo1\DESCogindo1\bin\Debug\DESCogindo1.exe
+c:\users\budiman nasra laia\documents\visual studio 2012\Projects\DESCogindo1\DESCogindo1\bin\Debug\DESCogindo1.pdb
+c:\users\budiman nasra laia\documents\visual studio 2012\Projects\DESCogindo1\DESCogindo1\bin\Debug\DESCogindo1.xml
+c:\users\budiman nasra laia\documents\visual studio 2012\Projects\DESCogindo1\DESCogindo1\obj\Debug\DESCogindo1.Form_Login.resources
+c:\users\budiman nasra laia\documents\visual studio 2012\Projects\DESCogindo1\DESCogindo1\obj\Debug\DESCogindo1.Form_Menu.resources
+c:\users\budiman nasra laia\documents\visual studio 2012\Projects\DESCogindo1\DESCogindo1\obj\Debug\DESCogindo1.Resources.resources
+c:\users\budiman nasra laia\documents\visual studio 2012\Projects\DESCogindo1\DESCogindo1\obj\Debug\DESCogindo1.vbproj.GenerateResource.Cache
+c:\users\budiman nasra laia\documents\visual studio 2012\Projects\DESCogindo1\DESCogindo1\obj\Debug\DESCogindo1.exe
+c:\users\budiman nasra laia\documents\visual studio 2012\Projects\DESCogindo1\DESCogindo1\obj\Debug\DESCogindo1.xml
+c:\users\budiman nasra laia\documents\visual studio 2012\Projects\DESCogindo1\DESCogindo1\obj\Debug\DESCogindo1.pdb
+c:\users\budiman nasra laia\documents\visual studio 2012\Projects\DESCogindo1\DESCogindo1\obj\Debug\DESCogindo1.Form_Input.resources
+C:\Users\Budiman Nasra Laia\documents\visual studio 2012\Projects\DESCogindo1\DESCogindo1\obj\Debug\DESCogindo1.vbproj.ResolveComReference.cache
+C:\Users\Budiman Nasra Laia\documents\visual studio 2012\Projects\DESCogindo1\DESCogindo1\obj\Debug\DESCogindo1.Form_dekripsi.resources
+C:\Users\Budiman Nasra Laia\documents\visual studio 2012\Projects\DESCogindo1\DESCogindo1\obj\Debug\DESCogindo1.Form_Enkripsi.resources
+C:\Users\Budiman Nasra Laia\documents\visual studio 2012\Projects\DESCogindo1\DESCogindo1\bin\Debug\CrystalDecisions.VSDesigner.dll
+C:\Users\Budiman Nasra Laia\documents\visual studio 2012\Projects\DESCogindo1\DESCogindo1\obj\Debug\DESCogindo1.vbprojResolveAssemblyReference.cache
+C:\Users\Budiman Nasra Laia\documents\visual studio 2012\Projects\DESCogindo1\DESCogindo1\obj\Debug\DESCogindo1.Form_Laporan.resources
+D:\budiman_sempro\BAB\skripsi gabungan budi\sidang\2016020863_Budiman Nasra Laia SI\DESCogindo1\DESCogindo1\bin\Debug\DESCogindo1.exe.config
+D:\budiman_sempro\BAB\skripsi gabungan budi\sidang\2016020863_Budiman Nasra Laia SI\DESCogindo1\DESCogindo1\obj\Debug\DESCogindo1.vbproj.ResolveComReference.cache
+D:\budiman_sempro\BAB\skripsi gabungan budi\sidang\2016020863_Budiman Nasra Laia SI\DESCogindo1\DESCogindo1\obj\Debug\DESCogindo1.exe
+D:\budiman_sempro\BAB\skripsi gabungan budi\sidang\2016020863_Budiman Nasra Laia SI\DESCogindo1\DESCogindo1\obj\Debug\DESCogindo1.xml
+D:\budiman_sempro\BAB\skripsi gabungan budi\sidang\2016020863_Budiman Nasra Laia SI\DESCogindo1\DESCogindo1\obj\Debug\DESCogindo1.pdb
+D:\budiman_sempro\BAB\skripsi gabungan budi\sidang\2016020863_Budiman Nasra Laia SI\DESCogindo1\DESCogindo1\obj\Debug\DESCogindo1.vbprojResolveAssemblyReference.cache
+D:\budiman_sempro\BAB\skripsi gabungan budi\sidang\2016020863_Budiman Nasra Laia SI\DESCogindo1\DESCogindo1\obj\Debug\DESCogindo1.Form_dekripsi.resources
+D:\budiman_sempro\BAB\skripsi gabungan budi\sidang\2016020863_Budiman Nasra Laia SI\DESCogindo1\DESCogindo1\obj\Debug\DESCogindo1.Form_Enkripsi.resources
+D:\budiman_sempro\BAB\skripsi gabungan budi\sidang\2016020863_Budiman Nasra Laia SI\DESCogindo1\DESCogindo1\obj\Debug\DESCogindo1.Form_input.resources
+D:\budiman_sempro\BAB\skripsi gabungan budi\sidang\2016020863_Budiman Nasra Laia SI\DESCogindo1\DESCogindo1\obj\Debug\DESCogindo1.Form_Laporan.resources
+D:\budiman_sempro\BAB\skripsi gabungan budi\sidang\2016020863_Budiman Nasra Laia SI\DESCogindo1\DESCogindo1\obj\Debug\DESCogindo1.Form_Login.resources
+D:\budiman_sempro\BAB\skripsi gabungan budi\sidang\2016020863_Budiman Nasra Laia SI\DESCogindo1\DESCogindo1\obj\Debug\DESCogindo1.Form_Menu.resources
+D:\budiman_sempro\BAB\skripsi gabungan budi\sidang\2016020863_Budiman Nasra Laia SI\DESCogindo1\DESCogindo1\obj\Debug\DESCogindo1.Resources.resources
+D:\budiman_sempro\BAB\skripsi gabungan budi\sidang\2016020863_Budiman Nasra Laia SI\DESCogindo1\DESCogindo1\obj\Debug\DESCogindo1.vbproj.GenerateResource.Cache
+D:\budiman_sempro\BAB\skripsi gabungan budi\sidang\2016020863_Budiman Nasra Laia SI\DESCogindo1\DESCogindo1\bin\Debug\DESCogindo1.exe
+D:\budiman_sempro\BAB\skripsi gabungan budi\sidang\2016020863_Budiman Nasra Laia SI\DESCogindo1\DESCogindo1\bin\Debug\DESCogindo1.pdb
+D:\budiman_sempro\BAB\skripsi gabungan budi\sidang\2016020863_Budiman Nasra Laia SI\DESCogindo1\DESCogindo1\bin\Debug\DESCogindo1.xml
